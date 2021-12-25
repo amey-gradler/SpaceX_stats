@@ -1,6 +1,9 @@
 # SpaceX_stats
-An app made using GraphQL and Apollo to get stats of launches from the SpaceX API
+> React, GraphQL, Apollo app that uses the SpaceX API to display launches
 
+## Quick Start
+
+```bash
 # Install dependencies (server & client)
 npm install
 cd client && npm install
@@ -18,3 +21,13 @@ npm run client
 cd client && npm run build
 
 # Graphiql - http://localhost:5000/graphql
+```
+
+## App Info
+
+### Author
+Ameya Ganore
+
+### Version
+
+1.0.0
